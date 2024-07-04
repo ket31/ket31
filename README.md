@@ -1,16 +1,19 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 
 
-<!--
-**ket31/ket31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Kettellem
 
-Here are some ideas to get you started:
+-Estou estudando na [Alura] (https:// www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+![] (![image](https://github.com/ket31/ket31/assets/174708771/67d0951b-6b9d-4447-8213-3a4c4f21d470)
+)
+
+
+![image](https://github.com/ket31/ket31/assets/174708771/67d0951b-6b9d-4447-8213-3a4c4f21d470
